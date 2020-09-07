@@ -1,11 +1,10 @@
-### <h1> Hello, World! 👋</h1>
-I am studying computer engineering at Sejong University
+### <h2> Hello, World! 👋</h2>
+<li> computer engineering at Sejong University</li>
 
 <h2>  🌱 Currently learning ...</h2>
-  <h3>      - HTML ,CSS , JS</h3>
-  
+  <li> cHTML ,CSS , JS</li>
 <h2>  💬 Interest ...</h2>
-  <h3>      - JS JAVA Kotlin Machine Learning...  </h3>
+  <li>  JS ,SPA,  </li>
   
 <!--
 **Lee-3-8/Lee-3-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
