@@ -2,9 +2,9 @@
 <li> computer engineering at Sejong University</li>
 
 <h2>  🌱 Currently learning ...</h2>
-  <li> cHTML ,CSS , JS</li>
+  <li> HTML ,CSS , JS, FLASK</li>
 <h2>  💬 Interest ...</h2>
-  <li>  JS ,SPA,  </li>
+  <li>  JS ,SPA, NODE  </li>
   
 <!--
 **Lee-3-8/Lee-3-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
