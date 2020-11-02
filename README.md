@@ -3,10 +3,9 @@
 
 <h2>  🌱 Currently learning ...</h2>
   <li> Flask</li>
-  <li> React<li>
+  <li> React</li>
 <h2>  💬 Interest ...</h2>
   <li>  node,React </li>
-  
 <!--
 **Lee-3-8/Lee-3-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
