@@ -2,7 +2,8 @@
 <li> computer engineering at Sejong University</li>
 
 <h2>  🌱 Currently learning ...</h2>
-  <li> FLASK</li>
+  <li> Flask</li>
+  <li> React<li>
 <h2>  💬 Interest ...</h2>
   <li>  node,React </li>
   
