@@ -1,8 +1,8 @@
 ## ⚡🌱 Currently Learning ...
-  - node js ,express js , mysql
+  - node js ,express js , mysql , React Native
 
 ## Interest ...
-  - react , python
+  - React , Python
 <!--
 **Lee-3-8/Lee-3-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
