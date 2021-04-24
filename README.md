@@ -1,5 +1,5 @@
 ## ⚡🌱 Currently Learning ...
-  - node js ,express js , mysql , React Native
+  - python Alg ,ML
 
 ## Interest ...
   - React , Python
