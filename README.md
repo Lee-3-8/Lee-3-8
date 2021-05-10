@@ -1,3 +1,1 @@
-## ⚡🌱 Currently Learning ...
-  - python Alg ,ML
 
