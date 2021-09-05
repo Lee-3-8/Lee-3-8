@@ -15,7 +15,11 @@
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-3-8&langs_count=6&exclude_repo=online-study,python_algorithm,codingtest-study&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![lee-3-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-3-8&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+            
+          
+[![lee-3-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-3-8&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)]
+            
+            
+
                    
 </div>
