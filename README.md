@@ -1,8 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&section=header&width=500&height=200&text=lee-3-8&fontSize=50&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&section=header&width=500&height=200&fontSize=50&fontAlignY=35&animation=fadeIn)
 
-            
   <h2> 🛠️ Tech Stack </h2>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
