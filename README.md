@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&section=header&width=500&height=200&text=lee-3-8&fontAlign=88&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&section=header&width=500&height=200&text=lee-3-8&fontSize=50&fontAlignY=35&animation=fadeIn)
 
             
   <h2> 🛠️ Tech Stack </h2>
@@ -17,9 +17,9 @@
 
             
           
-[![lee-3-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-3-8&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)]
+[![lee-3-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-3-8&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
             
             
 
-                   
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&section=footer&width=500&height=200&fontSize=50&animation=fadeIn)                   
 </div>
