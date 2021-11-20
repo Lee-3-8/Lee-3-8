@@ -3,6 +3,9 @@
 
 
 소통하는 개발자 이신필입니다
+<a href="https://hits.seeyoufarm.com">
+        <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Lee-3-8&count_bg=%23FF7777&title_bg=%23784242&icon=&icon_color=%23E7E7E7&title=&edge_flat=false" />
+</a>
 
   [Portfolio](https://spotty-cry-939.notion.site/4cb7eaa6eecc4ce390f7ffd1a95a1de2)
   <h2> 🛠️ Tech Stack </h2>
