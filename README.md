@@ -2,7 +2,7 @@
   <h2> 🧸 Hello World!</h2>
 
 
-소통하는 개발자 이신필입니다.
+소통하는 개발자 이신필입니다. d
 <a href="https://hits.seeyoufarm.com">
         <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Lee-3-8&count_bg=%23FF7777&title_bg=%23784242&icon=&icon_color=%23E7E7E7&title=&edge_flat=false" />
 </a>
